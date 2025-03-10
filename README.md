@@ -1,0 +1,1 @@
+# Python Dosya İşlemleri Çalışması
